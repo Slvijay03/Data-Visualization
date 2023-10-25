@@ -1,4 +1,4 @@
-# weather-_visualization
+# weather_visualization
 Simple visualization of weather dataset using python libraries (such as seaborn, pandas, etc..)
 
 *Take a glance of what the functions are really mean before starting your plot*
