@@ -1,6 +1,7 @@
 # weather_visualization
 
 **Description**
+     
      Simple visualization of weather dataset using python libraries (such as seaborn, pandas, etc..)
 
 **NOTE**
@@ -8,6 +9,7 @@
      *Take a glance of what the functions are really mean before starting your plot*
 
 Case 1:
+ 
  Following are some of the functions used to represent the weather dataset:
 
   1. displot - Used to visualize **continous dataset**. Only one column can be executed at a time.
@@ -19,6 +21,7 @@ Case 1:
 
 
 Case 2:
+
  Following are some of the functions used to represent the mental health dataset:
 
   1. scatterplot - Uses dot to represent data from a dataset.For representation you can use the code
