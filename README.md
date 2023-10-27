@@ -1,9 +1,13 @@
 # weather_visualization
-Simple visualization of weather dataset using python libraries (such as seaborn, pandas, etc..)
 
-*Take a glance of what the functions are really mean before starting your plot*
+**Description**
+     Simple visualization of weather dataset using python libraries (such as seaborn, pandas, etc..)
 
-# Following are some of the functions used to represent the weather dataset:
+**NOTE**
+     *Take a glance of what the functions are really mean before starting your plot*
+
+Case 1:
+ Following are some of the functions used to represent the weather dataset:
 
   1. displot - Used to visualize **continous dataset**. Only one column can be executed at a time.
   2. jointplot(bivariate function) - Helps to visualize 2 column data in a single plot.
@@ -13,8 +17,8 @@ Simple visualization of weather dataset using python libraries (such as seaborn,
   5. countplot - It is used in case of visualizing the **discrete dataset**. 
 
 
-
-# Following are some of the functions used to represent the mental health dataset:
+Case 2:
+ Following are some of the functions used to represent the mental health dataset:
 
   1. scatterplot - Uses dot to represent data from a dataset.For representation you can use the code
                 **plt.scatter(df['ABC'],df['DEF'])**
