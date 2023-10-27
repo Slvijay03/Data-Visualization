@@ -2,11 +2,13 @@
 
 **Description**
      
-     Simple visualization of weather dataset using python libraries (such as seaborn, pandas, etc..)
+     Simple visualization of dataset using python libraries (such as seaborn, pandas, etc..)
 
 **NOTE**
      
      *Take a glance of what the functions are really mean before starting your plot*
+
+Datasets of different kinds can be found at Kaggle...**https://www.kaggle.com/datasets**
 
 Case 1:
  
