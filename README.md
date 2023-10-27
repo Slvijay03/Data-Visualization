@@ -4,6 +4,7 @@
      Simple visualization of weather dataset using python libraries (such as seaborn, pandas, etc..)
 
 **NOTE**
+     
      *Take a glance of what the functions are really mean before starting your plot*
 
 Case 1:
